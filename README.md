@@ -19,6 +19,6 @@ The public **Online Retail** dataset (UCI / Online Retail II) is used. The datas
 
 ## Deliverables
 - `notebooks/ecommerce_analysis.ipynb` — annotated notebook with code, charts and conclusions
-- `data/online_retail_II.xlsx` — download from UCI or Kaggle and place here
+- `data/online_retail_II.xlsx` — UCI dataset used in project
 - `README.md` — project description
 - `requirements.txt`
